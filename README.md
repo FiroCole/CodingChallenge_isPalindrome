@@ -6,7 +6,7 @@
 
 # :white_check_mark: PALINDROME CHECKER :white_check_mark:
 
-### [CLICK TO DEMO](https://firocole.github.io/Concentration-Game/)
+
 
 ##### Firo Cole
 
@@ -35,12 +35,12 @@ This challenge is of intermediate difficulty level. It involves writing a functi
 
 In my solution, I employed the following techniques:
 
-- [:x:] String Manipulation: Utilized string methods such as replace() and toLowerCase() to handle casing and spaces in the input string.
+- String Manipulation: Utilized string methods such as replace() and toLowerCase() to handle casing and spaces in the input string.
   
-- [:x:] Array Manipulation: Split the string into an array of characters, reversed it, and then 
-        joined it back into a string to check for palindromes.
+- Array Manipulation: Split the string into an array of characters, reversed it, and then 
+joined it back into a string to check for palindromes.
 
-- [:x:] Conditional Logic: Implemented conditional statements to handle edge cases where the length of the string is 0 or 1.
+- Conditional Logic: Implemented conditional statements to handle edge cases where the length of the string is 0 or 1.
 
 ## :old_key: Key  Features
 - [:x:] Efficient and concise JavaScript solution
